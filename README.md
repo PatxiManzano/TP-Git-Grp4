@@ -2,3 +2,6 @@
 
 patxi manzano
 Bastien Paquier
+Patxi Manzano
+Annie Tran
+Jonathan Yafu
